@@ -3,7 +3,7 @@
 #include "nums_complexos.h"
 
 int main() {
-    num_complexo *a, *b, *c;
+    numero *a, *b, *c;
 
     a = cria_complexo(1.0, 2.0);
     b = cria_complexo(3.0, 4.0);

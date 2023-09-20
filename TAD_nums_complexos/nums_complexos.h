@@ -1,12 +1,9 @@
-typedef struct {
-  double real;
-  double imag;
-} num_complexo;
+typedef struct num_complexo numero;
 
-num_complexo *cria_complexo(double real, double imag);
-num_complexo *soma_complexo(num_complexo *a, num_complexo *b);
-num_complexo *subtracao_complexo(num_complexo *a, num_complexo *b);
-num_complexo *multiplicacao_complexo(num_complexo *a, num_complexo *b);
-num_complexo *divisao_complexo(num_complexo *a, num_complexo *b);
-void imprime_complexo(num_complexo *a);
-void libera_complexo(num_complexo *a);
+numero *cria_complexo(double real, double imag);
+numero *soma_complexo(numero *a, numero *b);
+numero *subtracao_complexo(numero *a, numero *b);
+numero *multiplicacao_complexo(numero *a, numero *b);
+numero *divisao_complexo(numero *a, numero *b);
+void imprime_complexo(numero *a);
+void libera_complexo(numero *a);
