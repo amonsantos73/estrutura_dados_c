@@ -6,7 +6,7 @@
 * Listas
 * Árvore
 * Pilhas
-* Algoritimos Recursivos
+* Algoritmos Recursivos
 
 ## Recomendações de material de estudo
 #### Este são alguns dos livros, apostilas que tenho usado em meus estudos:
