@@ -16,4 +16,4 @@ gcc -o nome_arquivo_de_saída.exe main.c lista_estatica.c
 ~~~
 #### Você também pode rodar a lista estática pelo seu navegador no Replit:
 [Link da Lista Estática](https://replit.com/@AmonLemes/Lista-Estatica-de-Produtos)
-<br><img src="./img/print_replit.png">\´
+<br><img src="./img/print_replit.png">
